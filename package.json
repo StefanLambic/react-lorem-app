@@ -1,6 +1,6 @@
 {
-  "homepage": "http://StefanLambic.github.io/lorem", 
-  "name": "slider",
+  "homepage": "http://StefanLambic.github.io/react-lorem-app", 
+  "name": "react-lorem-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
